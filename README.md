@@ -1,1 +1,1 @@
-# loadscreen by MTK x EGZOTIC
+# loadscreen
